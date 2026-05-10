@@ -60,7 +60,7 @@ MongoDB Database
 ### Clone Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/ai-interview-platform.git
+git clone https://github.com/Rathish-codevision/ai-interview-platform.git
 ```
 
 ### Frontend Setup
